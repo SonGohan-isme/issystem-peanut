@@ -1,0 +1,7 @@
+.modal, .modal-dialog, .modal-content, .modal-header {
+    border-radius: 0;
+    position: relative;
+    padding: 0;
+    border: none;
+    background: #17c1d4;
+}

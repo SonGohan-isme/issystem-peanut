@@ -1,0 +1,30 @@
+.exit {
+    font-family: unset;
+    /* color: tomato; */
+    font-weight: bold;
+    margin: 5%;
+}
+
+.img_customer {
+    margin: 2%;
+    width: 18%;
+    border-radius: 100%;
+}
+
+.wellcome {
+    left: 24%;
+    top: -32px;
+    position: relative;
+}
+
+.container-image-cust {
+    width: 21%;
+}
+
+.container-cust {
+    margin-right: 0px;
+}
+
+.modal-header{
+    background-color: #17c1d4;
+}
